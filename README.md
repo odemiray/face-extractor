@@ -25,4 +25,5 @@ Do whatever the fuck you want to do with it.
 
 ## F.A.Q.
 -**Why?**
+
 I am working on a school project with @mustafaalby which is about face-recognition technologies. We need to train a model and we wanted to create our own dataset for training.
